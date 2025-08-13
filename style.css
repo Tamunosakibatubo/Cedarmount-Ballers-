@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(74, 101, 218);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: aquamarine;
+    text-shadow: 3px 3px 3px black;
+}
+#h12{
+    color: plum;
+    text-transform: capitalize;
+}
+img{
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h23{
+    text-align: center;
+    color: rgb(177, 68, 49);
+}
+#body2{
+    background: #444242;
+}
+#trust{
+    color:rgb(177, 68, 49);
+    text-align: center;
+    text-transform: capitalize;
+}
+#homepg{
+    color:palevioletred ;
+    text-align: center;
+    text-emphasis:initial;
+    font-style: oblique;
+}
+#h25{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#h26{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
